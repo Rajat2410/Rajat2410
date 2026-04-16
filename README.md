@@ -1,7 +1,7 @@
 # Hi 👋 I'm Rajat Jain
 
 <!--
-**Rajat2410/Rajat2410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Rajat2410/Rajat2410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
 
 # 💫 About Me:
 🔭 I’m currently working for healthy lifestyle.<br>🌱 I’m currently learning about Agentic AI and Gen-AI.<br>💬 Ask me about beauty of IIT Guwahati.<br>⚡ Fun fact : Always ready to explore new things.
