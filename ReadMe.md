@@ -1,3 +1,5 @@
+# Hi 👋 I'm Rajat Jain
+___________________________
 # 💫 About Me:
 🔭 I’m currently working for healthy lifestyle.<br>🌱 I’m currently learning about Agentic AI and Gen-AI.<br>💬 Ask me about beauty of IIT Guwahati.<br>⚡ Fun fact : Always ready to explore new things.
 
